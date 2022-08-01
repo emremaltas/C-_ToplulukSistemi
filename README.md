@@ -1,3 +1,4 @@
 # ToplulukSistemi
-C++ ile ilk öğrenimim sonrası kodladığım(KONSOL)Topluluk Sistemi Yazılımı
-Kayıtlı olan topluluklara kişi ekleyip silebiliyoruz ardından sistemi kapattığımızda kayıt edien kişileri topluluğun kendi excel dosyasına kaydediyor.
+- C++ ile ilk öğrenimim sonrası kodladığım (konsol) **Topluluk Sistemi**
+- Kayıtlı olan topluluklara kişi ekleyip silinebilir.
+- Sistem kapatıldığında kayıt edien kişiler topluluğun kendi excel dosyasına kaydedilir.
